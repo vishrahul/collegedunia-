@@ -30,7 +30,6 @@ export default class HomeScreen extends React.Component {
   }
 
 
-
 componentDidMount(){
 
   Geolocation.getCurrentPosition(
